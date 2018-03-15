@@ -6,7 +6,7 @@
 
 ## 第一部分 环境搭建（2018年3月25日-2018年4月1日）
 
-- 1.1 Github & Git
+- 1.1 Github & Git & Hexo+GitHub Pages+NexT
 - 1.2 Markdown & Markdown Here
 - 1.3 Ruby on Rails
 - 1.4 Heroku & Aliyun
@@ -19,8 +19,8 @@
 - 2.3 小程序应用
 
 ## 第三部分 支付功能开发（2018年4月30日-2018年5月10日）
-- 3.1 支付宝 支付开发
-- 3.2 微   信  支付开发
+- 3.1 Alipay 支付开发
+- 3.2 WeChat 支付开发
 - 3.3 PayPal 支付开发
 
 ## 第四部分 求职就业指导（2018年5月10日-2018年5月14日）
