@@ -14,6 +14,60 @@
 >1.1 Github & Git & Gitbook & Github Page
 
 >1.2 Ruby on Rails & Heroku & Aliyun & Linux & Nginx
+```
+Mackenzie Child
+
+1.2.1 How to build a Dribbble type app in Rails
+
+1.2.2 How To Build A Notebook App in Rails
+
+1.2.3 How To Build A Forum In Rails
+
+1.2.4 How To Build A Wikipedia Clone in Rails
+
+1.2.5 How To Build A Workout Log In Rails
+
+1.2.6 How To Build A Jobs Board In Rails
+
+1.2.7 How To Build A Todo App In Rails
+
+1.2.8 How To Build A Movie Review App in Rails
+
+1.2.9 How to build a Pinterest Clone in Rails
+
+1.2.10 How To Build A Recipe Box In Rails
+
+1.2.11 How to build a blog in rails
+
+1.2.12 How to build a Reddit or Hacker News Style Web App in Rails 4
+
+---
+
+Web-Crunch
+
+1.2.13 Let's Build: With Ruby On Rails - Blog With Comments
+
+
+1.2.14 Let's Build: A Twitter Clone With Ruby on Rails
+Web-Crunch
+
+
+1.2.15 Let's Build: A Dribbble Clone With Ruby On Rails
+
+1.2.16 Let's Build: With Ruby On Rails - Discussion Forum
+
+1.2.17 Let's Build: With Ruby on Rails - Project Management App
+
+
+1.2.18 Let's Build: With Ruby on Rails - eCommerce Music Shop
+
+
+---
+
+1.2.19 Let's Build: With Ruby On Rails - Deploying An App To Heroku
+
+
+```
 
 >1.3 React Native & Android & iOS & Mini
 
