@@ -13,6 +13,27 @@
 
 >1.1 Github & Git & Gitbook & Github Page
 
+Git & Github
+
+http://stormzhang.com/2017/01/20/learn-github-from-zero-pdf/
+
+Gitbook
+
+https://ruby-china.org/topics/34627
+
+Github Page
+
+Hexo+GitHub Pages+NexT来搭建属于自己的博客
+
+https://shengshengshini.github.io/%E7%94%A8Hexo-GitHub-Pages%E6%90%AD%E5%BB%BA%E5%B1%9E%E4%BA%8E%E8%87%AA%E5%B7%B1%E7%9A%84%E5%8D%9A%E5%AE%A2.html/
+
+https://shenzhoudance.github.io/
+
+>1.2 markdowm & markdown here & atom
+
+李笑来 markdown 解读和用法
+
+
 >1.2 Ruby on Rails & Heroku & Aliyun & Linux & Nginx
 ```
 Mackenzie Child
@@ -25,21 +46,84 @@ Mackenzie Child
 
 1.2.4 How To Build A Wikipedia Clone in Rails
 
+才华横溢 wiki 案例教学 9
+
+>Github Repo:
+https://github.com/shenzhoudance/wiki
+Visit this website:
+https://xiaoweiwiki.herokuapp.com/
+
 1.2.5 How To Build A Workout Log In Rails
+
+才华横溢 workout_log 案例 8
+
+>Github Repo:
+https://github.com/shenzhoudance/workout_log
+Visit this website:
+https://xiaoweiworkout_log.herokuapp.com/
 
 1.2.6 How To Build A Jobs Board In Rails
 
+才华横溢 jobs_board 案例教学 7
+
+>Github Repo:
+https://github.com/shenzhoudance/jobs_board
+Visit this website:
+https://xiaoweijobs_board.herokuapp.com/
+
 1.2.7 How To Build A Todo App In Rails
+
+才华横溢 todo 教学案例 6
+
+>Github Repo:
+https://github.com/shenzhoudance/todo
+Visit this website:
+https://xiaoweitodo.herokuapp.com/
 
 1.2.8 How To Build A Movie Review App in Rails
 
+才华横溢 movie_review 教学案例 5
+
+>Github Repo:
+https://github.com/shenzhoudance/movie_review
+Visit this website:
+https://xiaoweimovie_review.herokuapp.com/
+
 1.2.9 How to build a Pinterest Clone in Rails
+
+才华横溢 pin_board 案例教学 4
+
+>Github Repo:
+https://github.com/shenzhoudance/pin_board
+Visit this website:
+https://xiaoweipin_board.herokuapp.com/
 
 1.2.10 How To Build A Recipe Box In Rails
 
+才华横溢 recipe_box 案例教学 3
+
+>Github Repo:
+https://github.com/shenzhoudance/recipe_box
+Visit this website:
+https://xiaoweirecipe_box.herokuapp.com/
+
 1.2.11 How to build a blog in rails
 
-1.2.12 How to build a Reddit or Hacker News Style Web App in Rails 4
+才华横溢 blog101 案例教学 2
+
+>Github Repo:
+https://github.com/shenzhoudance/blog101
+Visit this website:
+https://xiaoweiblog101.herokuapp.com/
+
+1.2.12 How to build a Reddit or Hacker News Style Web App in Rails
+
+才华横溢 raddit 案例教学 1
+
+>Github Repo:
+https://github.com/shenzhoudance/raddit
+Visit this website:
+https://xiaoweiraddit.herokuapp.com/
 
 ---
 
@@ -72,6 +156,18 @@ Web-Crunch
 >1.3 React Native & Android & iOS & Mini
 
 >1.4 Solidity & Web3.js & Truffle & Hyperledger Fabric & IPFS
+
+一步一步的区块链教程
+http://blockchain.liuchengxu.org/
+
+在以太坊简单投票
+Simple Voting on Ethereum
+
+Token based Voting on Ethereum
+
+Decentralized eBay on Ethereum & IPFS
+
+https://www.zastrin.com/
 
 >1.5 企业求职指导 & 公司创业指导
 
