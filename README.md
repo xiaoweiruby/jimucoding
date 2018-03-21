@@ -9,7 +9,7 @@
 
 >在编程技能的体系里面，会基于现在我们已经完成的网页端、移动端、微信端的产品，教授学生如何快速的掌握互联网产品的编程体系，完成网页端的产品打造，完成移动端的产品的打造，完成微信端的产品的打造，从而帮助学生可以快速的立足互联网科技公司，具备核心的竞争能力；
 
-## 第一部分 课程安排
+## 第一部分 编程基础入门
 
 ## Github & Git & Gitbook & Github Page
 
@@ -33,8 +33,15 @@ https://shenzhoudance.github.io/
 
 ## markdowm & markdown here & atom
 
-李笑来 markdown 解读和用法
+Markdown Here 教程
 
+https://mp.weixin.qq.com/s?__biz=MzA4OTc0MDI2MQ==&mid=2652580511&idx=1&sn=d555a02370986ee1cea07cae261f678e&mpshare=1&scene=1&srcid=0321PvmYyPasDrPHMYHGRtUl&pass_ticket=TOmC0I%2B3l3jhpkzwBZVk3OQg6dABDvKC1LEkjTj9hzu7w6ab97z61DxHqq5hQ5X0#rd
+
+如何快速高效排版公众号！：以笑来系排版为例
+
+https://mp.weixin.qq.com/s?__biz=MzI5NDk2NDIxNA==&mid=2247483680&idx=1&sn=53f87305c25a8b9825b74ec1ba406a06&chksm=ec5b9fb9db2c16af260b69501d248a47527100055840f5951237ec67b4112508b699cce075a2&mpshare=1&scene=1&srcid=03212ygtVfRwRj9fQTgDzmFz&pass_ticket=TOmC0I%2B3l3jhpkzwBZVk3OQg6dABDvKC1LEkjTj9hzu7w6ab97z61DxHqq5hQ5X0#rd
+
+## 第二部分 编程网页端开发
 
 ## Ruby on Rails & Heroku & Aliyun & Linux & Nginx
 
@@ -173,12 +180,12 @@ https://xiaoweiraddit.herokuapp.com/
 
 ---
 
-## 1.2.19 Let's Build: With Ruby On Rails - Deploying An App To Heroku
-
-
+## 第三部分 编程移动端开发
 
 
 # React Native & Android & iOS & Mini
+
+## 第四部分 编程区块链开发
 
 # Solidity & Web3.js & Truffle & Hyperledger Fabric & IPFS
 
@@ -197,28 +204,29 @@ https://www.zastrin.com/
 
 >1.5 企业求职指导 & 公司创业指导
 
+## 第五部分 编程其他事项
 
-## 第二部分 时间安排
-
-
->2018 年 3 月 25 日 - 2018 年 5 月 15 日
+### 时间安排
 
 
-## 第三部分 培训费用
-
->16800 元/期
+2018 年 3 月 25 日 - 2018 年 5 月 15 日
 
 
-## 第四部分 培训地点
+### 培训费用
 
->中国·北京
+16800 元/期
+
+
+### 培训地点
+
+中国·北京
 
 
 针对于学生所学习的能力可以完成公司的留任和企业的推荐，帮助学生完成互联网可以公司的就业、互联网科技公司的创业、互联网公司的投资；
 
 ---
 
-# 三、人才招募培训：
+## 第六部分 人才招募培训：
 
 >3.1 新媒体运营助理
 
@@ -233,7 +241,7 @@ https://www.zastrin.com/
 
 ---
 
-# 三、会员知识服务：
+## 第七部分 会员知识服务：
 
 >1）全年招募千一会员，每期 1000 人，每期 1888 元/年；提升自己认知的能力；
 
@@ -249,7 +257,7 @@ https://www.zastrin.com/
 
 ---
 
-# 社交媒体联系：
+## 第八部分 社交媒体联系：
 
 >微信公众号：肖威洞察
 
@@ -261,7 +269,7 @@ https://www.zastrin.com/
 
 >今日头条号：肖威
 
-
+## 第九部分 扫描微信联系：
 
 
 ![image](https://ws2.sinaimg.cn/large/006tNc79ly1fpjf2ree8hj30js0kgte2.jpg)
