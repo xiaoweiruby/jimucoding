@@ -1,27 +1,27 @@
-# 《积木式编程》 肖威编著
+# 超级学校 SuperxSchool 现在开始招生了！
 
 
->才华横溢科技（北京）有限责任公司成立于2017年9月21日，人才研习社是才华横溢下属的知识服务社群，旨在帮助普通人在高速发展的时代，快速的掌握前沿科技和思维信息而存在的一个知识筛选和知识服务机构。
+才华横溢科技（北京）有限责任公司成立于2017年9月21日，才华横溢研习社是才华横溢下属的知识服务社群，旨在帮助普通人在高速发展的时代，快速的掌握前沿科技和思维信息而存在的一个知识筛选和知识服务机构。
 
 2018年才华横溢科技（北京）有限责任公司开始针对真实职场所需要的技能完成编程培训和会员知识服务。
 
-# 一、全栈工程师培训：
+# 全栈工程师培训：
 
->在编程技能的体系里面，会基于现在我们已经完成的网页端、移动端、微信端的产品，教授学生如何快速的掌握互联网产品的编程体系，完成网页端的产品打造，完成移动端的产品的打造，完成微信端的产品的打造，从而帮助学生可以快速的立足互联网科技公司，具备核心的竞争能力；
+在编程技能的体系里面，会基于现在我们已经完成的网页端、移动端、微信端的产品，教授学生如何快速的掌握互联网产品的编程体系，完成网页端的产品打造，完成移动端的产品的打造，完成微信端的产品的打造，从而帮助学生可以快速的立足互联网科技公司，具备核心的竞争能力；
 
 ## 第一部分 编程基础入门
 
-## Github & Git & Gitbook & Github Page
+### 一、Github & Git & Gitbook & Github Page
 
-## Git & Github
+### （一） Git & Github
 
 http://stormzhang.com/2017/01/20/learn-github-from-zero-pdf/
 
-## Gitbook
+### （二） Gitbook
 
 https://ruby-china.org/topics/34627
 
-## Github Page
+### （三）Github Page
 
 Hexo+GitHub Pages+NexT来搭建属于自己的博客
 
@@ -31,29 +31,27 @@ https://shenzhoudance.github.io/
 
 ---
 
-## markdowm & markdown here & atom
+### 二、markdowm & markdown here & atom
 
-Markdown Here 教程
+### （一）Markdown Here 教程
 
 https://mp.weixin.qq.com/s?__biz=MzA4OTc0MDI2MQ==&mid=2652580511&idx=1&sn=d555a02370986ee1cea07cae261f678e&mpshare=1&scene=1&srcid=0321PvmYyPasDrPHMYHGRtUl&pass_ticket=TOmC0I%2B3l3jhpkzwBZVk3OQg6dABDvKC1LEkjTj9hzu7w6ab97z61DxHqq5hQ5X0#rd
 
-如何快速高效排版公众号！：以笑来系排版为例
+### （二）如何快速高效排版公众号！：以笑来系排版为例
 
 https://mp.weixin.qq.com/s?__biz=MzI5NDk2NDIxNA==&mid=2247483680&idx=1&sn=53f87305c25a8b9825b74ec1ba406a06&chksm=ec5b9fb9db2c16af260b69501d248a47527100055840f5951237ec67b4112508b699cce075a2&mpshare=1&scene=1&srcid=03212ygtVfRwRj9fQTgDzmFz&pass_ticket=TOmC0I%2B3l3jhpkzwBZVk3OQg6dABDvKC1LEkjTj9hzu7w6ab97z61DxHqq5hQ5X0#rd
 
 ## 第二部分 编程网页端开发
 
-## Ruby on Rails & Heroku & Aliyun & Linux & Nginx
+## 一、Mackenzie Child 案例练习
 
-Mackenzie Child
+### （一）How to build a Dribbble type app in Rails
 
-## 1.2.1 How to build a Dribbble type app in Rails
+### （二）How To Build A Notebook App in Rails
 
-## 1.2.2 How To Build A Notebook App in Rails
+### （三）How To Build A Forum In Rails
 
-## 1.2.3 How To Build A Forum In Rails
-
-## 1.2.4 How To Build A Wikipedia Clone in Rails
+### （四）How To Build A Wikipedia Clone in Rails
 
 才华横溢 wiki 案例教学 9
 
@@ -65,7 +63,7 @@ Visit this website:
 
 https://xiaoweiwiki.herokuapp.com/
 
-## 1.2.5 How To Build A Workout Log In Rails
+### （五） How To Build A Workout Log In Rails
 
 才华横溢 workout_log 案例 8
 
@@ -77,7 +75,7 @@ Visit this website:
 
 https://xiaoweiworkout_log.herokuapp.com/
 
-## 1.2.6 How To Build A Jobs Board In Rails
+### （六） How To Build A Jobs Board In Rails
 
 才华横溢 jobs_board 案例教学 7
 
@@ -89,7 +87,7 @@ Visit this website:
 
 https://xiaoweijobs_board.herokuapp.com/
 
-## 1.2.7 How To Build A Todo App In Rails
+### （七）How To Build A Todo App In Rails
 
 才华横溢 todo 教学案例 6
 
@@ -101,7 +99,7 @@ Visit this website:
 
 https://xiaoweitodo.herokuapp.com/
 
-## 1.2.8 How To Build A Movie Review App in Rails
+### （八） How To Build A Movie Review App in Rails
 
 才华横溢 movie_review 教学案例 5
 
@@ -113,7 +111,7 @@ Visit this website:
 
 https://xiaoweimovie_review.herokuapp.com/
 
-## 1.2.9 How to build a Pinterest Clone in Rails
+### （九） How to build a Pinterest Clone in Rails
 
 才华横溢 pin_board 案例教学 4
 
@@ -125,7 +123,7 @@ Visit this website:
 
 https://xiaoweipin_board.herokuapp.com/
 
-## 1.2.10 How To Build A Recipe Box In Rails
+### （十） How To Build A Recipe Box In Rails
 
 才华横溢 recipe_box 案例教学 3
 
@@ -137,7 +135,7 @@ Visit this website:
 
 https://xiaoweirecipe_box.herokuapp.com/
 
-## 1.2.11 How to build a blog in rails
+### （十一） How to build a blog in rails
 
 才华横溢 blog101 案例教学 2
 
@@ -149,7 +147,7 @@ Visit this website:
 
 https://xiaoweiblog101.herokuapp.com/
 
-## 1.2.12 How to build a Reddit or Hacker News Style Web App in Rails
+### （十二） How to build a Reddit or Hacker News Style Web App in Rails
 
 才华横溢 raddit 案例教学 1
 
@@ -162,21 +160,20 @@ Visit this website:
 https://xiaoweiraddit.herokuapp.com/
 
 ---
+## 二、Web-Crunch 案例教学
 
-## 1.2.13 Let's Build: With Ruby On Rails - Blog With Comments
-
-
-## 1.2.14 Let's Build: A Twitter Clone With Ruby on Rails
-
-## 1.2.15 Let's Build: A Dribbble Clone With Ruby On Rails
-
-## 1.2.16 Let's Build: With Ruby On Rails - Discussion Forum
-
-## 1.2.17 Let's Build: With Ruby on Rails - Project Management App
+### （一） Let's Build: With Ruby On Rails - Blog With Comments
 
 
-## 1.2.18 Let's Build: With Ruby on Rails - eCommerce Music Shop
+### （二） Let's Build: A Twitter Clone With Ruby on Rails
 
+### （三） Let's Build: A Dribbble Clone With Ruby On Rails
+
+### （四） Let's Build: With Ruby On Rails - Discussion Forum
+
+### （五） Let's Build: With Ruby on Rails - Project Management App
+
+### （六） Let's Build: With Ruby on Rails - eCommerce Music Shop
 
 ---
 
