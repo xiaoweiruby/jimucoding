@@ -40,13 +40,13 @@ https://shenzhoudance.github.io/
 
 Mackenzie Child
 
-1.2.1 How to build a Dribbble type app in Rails
+## 1.2.1 How to build a Dribbble type app in Rails
 
-1.2.2 How To Build A Notebook App in Rails
+## 1.2.2 How To Build A Notebook App in Rails
 
-1.2.3 How To Build A Forum In Rails
+## 1.2.3 How To Build A Forum In Rails
 
-1.2.4 How To Build A Wikipedia Clone in Rails
+## 1.2.4 How To Build A Wikipedia Clone in Rails
 
 才华横溢 wiki 案例教学 9
 
@@ -58,7 +58,7 @@ Visit this website:
 
 https://xiaoweiwiki.herokuapp.com/
 
-1.2.5 How To Build A Workout Log In Rails
+## 1.2.5 How To Build A Workout Log In Rails
 
 才华横溢 workout_log 案例 8
 
@@ -70,7 +70,7 @@ Visit this website:
 
 https://xiaoweiworkout_log.herokuapp.com/
 
-1.2.6 How To Build A Jobs Board In Rails
+## 1.2.6 How To Build A Jobs Board In Rails
 
 才华横溢 jobs_board 案例教学 7
 
@@ -82,7 +82,7 @@ Visit this website:
 
 https://xiaoweijobs_board.herokuapp.com/
 
-1.2.7 How To Build A Todo App In Rails
+## 1.2.7 How To Build A Todo App In Rails
 
 才华横溢 todo 教学案例 6
 
@@ -94,7 +94,7 @@ Visit this website:
 
 https://xiaoweitodo.herokuapp.com/
 
-1.2.8 How To Build A Movie Review App in Rails
+## 1.2.8 How To Build A Movie Review App in Rails
 
 才华横溢 movie_review 教学案例 5
 
@@ -106,7 +106,7 @@ Visit this website:
 
 https://xiaoweimovie_review.herokuapp.com/
 
-1.2.9 How to build a Pinterest Clone in Rails
+## 1.2.9 How to build a Pinterest Clone in Rails
 
 才华横溢 pin_board 案例教学 4
 
@@ -118,7 +118,7 @@ Visit this website:
 
 https://xiaoweipin_board.herokuapp.com/
 
-1.2.10 How To Build A Recipe Box In Rails
+## 1.2.10 How To Build A Recipe Box In Rails
 
 才华横溢 recipe_box 案例教学 3
 
@@ -130,7 +130,7 @@ Visit this website:
 
 https://xiaoweirecipe_box.herokuapp.com/
 
-1.2.11 How to build a blog in rails
+## 1.2.11 How to build a blog in rails
 
 才华横溢 blog101 案例教学 2
 
@@ -142,7 +142,7 @@ Visit this website:
 
 https://xiaoweiblog101.herokuapp.com/
 
-1.2.12 How to build a Reddit or Hacker News Style Web App in Rails
+## 1.2.12 How to build a Reddit or Hacker News Style Web App in Rails
 
 才华横溢 raddit 案例教学 1
 
@@ -158,33 +158,33 @@ https://xiaoweiraddit.herokuapp.com/
 
 Web-Crunch
 
-1.2.13 Let's Build: With Ruby On Rails - Blog With Comments
+## 1.2.13 Let's Build: With Ruby On Rails - Blog With Comments
 
 
-1.2.14 Let's Build: A Twitter Clone With Ruby on Rails
+## 1.2.14 Let's Build: A Twitter Clone With Ruby on Rails
 Web-Crunch
 
 
-1.2.15 Let's Build: A Dribbble Clone With Ruby On Rails
+## 1.2.15 Let's Build: A Dribbble Clone With Ruby On Rails
 
-1.2.16 Let's Build: With Ruby On Rails - Discussion Forum
+## 1.2.16 Let's Build: With Ruby On Rails - Discussion Forum
 
-1.2.17 Let's Build: With Ruby on Rails - Project Management App
+## 1.2.17 Let's Build: With Ruby on Rails - Project Management App
 
 
-1.2.18 Let's Build: With Ruby on Rails - eCommerce Music Shop
+## 1.2.18 Let's Build: With Ruby on Rails - eCommerce Music Shop
 
 
 ---
 
-1.2.19 Let's Build: With Ruby On Rails - Deploying An App To Heroku
+## 1.2.19 Let's Build: With Ruby On Rails - Deploying An App To Heroku
 
 
 
 
->1.3 React Native & Android & iOS & Mini
+# React Native & Android & iOS & Mini
 
->1.4 Solidity & Web3.js & Truffle & Hyperledger Fabric & IPFS
+# Solidity & Web3.js & Truffle & Hyperledger Fabric & IPFS
 
 一步一步的区块链教程
 
