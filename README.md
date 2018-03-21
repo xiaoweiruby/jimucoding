@@ -156,14 +156,10 @@ https://xiaoweiraddit.herokuapp.com/
 
 ---
 
-Web-Crunch
-
 ## 1.2.13 Let's Build: With Ruby On Rails - Blog With Comments
 
 
 ## 1.2.14 Let's Build: A Twitter Clone With Ruby on Rails
-Web-Crunch
-
 
 ## 1.2.15 Let's Build: A Dribbble Clone With Ruby On Rails
 
