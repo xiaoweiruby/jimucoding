@@ -35,7 +35,7 @@ https://shenzhoudance.github.io/
 
 
 >1.2 Ruby on Rails & Heroku & Aliyun & Linux & Nginx
-```
+
 Mackenzie Child
 
 1.2.1 How to build a Dribbble type app in Rails
@@ -151,7 +151,7 @@ Web-Crunch
 1.2.19 Let's Build: With Ruby On Rails - Deploying An App To Heroku
 
 
-```
+
 
 >1.3 React Native & Android & iOS & Mini
 
