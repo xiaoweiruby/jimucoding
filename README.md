@@ -9,12 +9,12 @@
     * [如何才可以更加快速的完成全栈工程师的培养？](part1/A8.md)
     * [2018计划安排](part1/A7.md)
 
-    
+
 * [Part I 课前准备](part1/README.md)
     * [Github 注册和 Git 的使用](part1/A1.md)
     * [Ruby on Rails 环境搭建](part1/A2.md)
-    * [Hexo+ GitHub Pages+ NexT 来搭建属于自己的博客](part1/A3.md)
     * [ Markdown 的文本使用心得](part1/A9.md)
+    * [Hexo+ GitHub Pages+ NexT 来搭建属于自己的博客](part1/A3.md)  
 
 * [Part II 基础入门](part2/README.md)
     * [构建一个Hallo World 专案](part2/B1.md)
@@ -77,11 +77,11 @@
     * [学会在陌生的世界里面交换](part6/F16.md)
     * [成熟个体的标志](part6/F17.md)
     * [普通人如何才可以改变自己的命运](part6/F18.md)
-    * [真实世界的商业法则](part6/F19.md)
-    * [人力资产 的 价值判断](part6/F20.md)
-    * [对于 婚姻价值交换 的看法](part6/F21.md)
+    * [真实 世界 商业法则](part6/F19.md)
+    * [人力 资产 价值判断](part6/F20.md)
+    * [对于 婚姻 价值交换看法](part6/F21.md)
     * [对于 支付 流程的思考](part6/F22.md)
-    * [团队管理的思路心得](part6/F23.md)
+    * [团队 管理 思路心得](part6/F23.md)
     * [对于 运营 的思考](part6/F24.md)
     * [招募 员工 的心得体会](part6/F25.md)
     * [成立 公司 所遇到的坑](part6/F26.md)
