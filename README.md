@@ -1,272 +1,64 @@
-# 超级学校 SuperxSchool 现在开始招生了！
 
+# 关于我
 
-才华横溢科技（北京）有限责任公司成立于2017年9月21日，才华横溢研习社是才华横溢下属的知识服务社群，旨在帮助普通人在高速发展的时代，快速的掌握前沿科技和思维信息而存在的一个知识筛选和知识服务机构。
+在开始完成 Ruby on Rails 教学以前，我首先谈谈我自己的教学和经历。
 
-2018年才华横溢科技（北京）有限责任公司开始针对真实职场所需要的技能完成编程培训和会员知识服务。
+肖威
+江西师范大学体育舞蹈专业毕业  教育工作者
+国家一级教师 国家一级裁判
+才华横溢科技（北京）有限责任公司 创始人兼CEO
+13年下半年入局在线教育，多家在线教育平台讲师
+17年下半年创办才华横溢，打造我心目当中的在线职业技能大学
 
-# 全栈工程师培训：
+如果你想要进一步的了解我，可以在 Github 上面查看我的个人简历，能够更有利于你了解我的过去和现在，以及我的未来，帮助你更加快速的完成自我的成长；
 
-在编程技能的体系里面，会基于现在我们已经完成的网页端、移动端、微信端的产品，教授学生如何快速的掌握互联网产品的编程体系，完成网页端的产品打造，完成移动端的产品的打造，完成微信端的产品的打造，从而帮助学生可以快速的立足互联网科技公司，具备核心的竞争能力；
+个人简历：https://github.com/shenzhoudance/jianli
 
-## 第一部分 编程基础入门
+**人生十八岁以前：**
 
-### 一、Github & Git & Gitbook & Github Page
+1988-2001 沙洋县实验小学毕业，担任过生活委员；
+2001-2004 沙洋县实验初中毕业；担任过生活委员；
+2004-2007 沙洋县实验高中毕业；担任过生活委员；
 
-### （一） Git & Github
+**人生十八岁以后：**
 
-http://stormzhang.com/2017/01/20/learn-github-from-zero-pdf/
+2007-2010 在湖北省体育舞蹈运动学校学习国际标准舞，担任过班长，在这段时间里面，我刻苦努力，逐渐的掌握了改变自己命运的技能，相信自己和自律，让我可以在大学的过程中，更好的发挥自己，在此之间获得过各类的奖牌，**考取了国家一级教师资格证书；**
 
-### （二） Gitbook
+2010-2014 在江西师范大学 体育学院 学习，担任过学院的文艺部学干，班级班长和团支部书记，最高职位为江西师范大学党员服务站第七届站长，**在这个阶段考取了国家一级裁判，荣获江西省大专院校体育舞蹈十项组全能冠军；**
 
-https://ruby-china.org/topics/34627
+2014-2017 大学毕业后，在湖北省神洲体育舞蹈学校担任副校长，负责教学，行政，财务等工作；2015年12月份拿到驾照，2016年在九州会计事务所学习财务，2016年10月在律师事务所学习法律；**在这个阶段里面，荣获优秀党员称号；**
 
-### （三）Github Page
+**三十而立之年：**
 
-Hexo+GitHub Pages+NexT来搭建属于自己的博客
+2017-2018 在中关村创业大街天使汇四楼使用6个月的时间，从零到一**打造了才华横溢科技（北京）有限责任公司**，开始从而在线职业技能教学的活动，通过互联网在线教育的手段打造一所我心目当中的在线大学；**在这个阶段荣获最美在外沙洋人称号；**
 
-https://shengshengshini.github.io/%E7%94%A8Hexo-GitHub-Pages%E6%90%AD%E5%BB%BA%E5%B1%9E%E4%BA%8E%E8%87%AA%E5%B7%B1%E7%9A%84%E5%8D%9A%E5%AE%A2.html/
+最近我在阅读原则的时候，看到原则的老大使用三个方面来撰写自己的人生的心得，我在这个地方也使用这三个部分完成我的技能化教学，这样帮助大家更好的了解我是如何学习的，同时帮助你可以快速的完成自我学习作为一个参考；
 
-https://shenzhoudance.github.io/
+我在完成本门书籍的时候，主要谈的三个方面的内容：第一个方面是我是如何学习和思考的，第二个方面是我是如何完成技能的学习和提高的，第三个方面是直接给出答案，然后让大家直接在这个过程中，完成学习，知道为什么学习，知道如何学习，知道怎样学习，从而帮助自己快速的完成自我的学习和提高；
 
----
+我自己过去是不知道如何完成公司的成立的，当我自己完成了公司的成立之后，才对于现在的互联网有了进一步的认知；首先我谈谈关于对于互联网的认知的问题，然后我们就开始完成接下来的互联网编程的学习；
 
-### 二、markdowm & markdown here & atom
+在开办公司的过程中，我们作为一家互联网公司的主要的目的是在于完成容器的打造，内容的打造，产品的营销，在这个过程中，我对于现在的互联网产品的打造有了进一步的认知，这个认知就是跳出现在的互联网的东西，从本质上来看互联网，从而帮助自己更好的理解互联网；
 
-### （一）Markdown Here 教程
+处在当下的互联网的时代，我们现在主要应对与三个世界的变化，通过这三个世界的变化的过程中，从而改变自己的命运；
 
-https://mp.weixin.qq.com/s?__biz=MzA4OTc0MDI2MQ==&mid=2652580511&idx=1&sn=d555a02370986ee1cea07cae261f678e&mpshare=1&scene=1&srcid=0321PvmYyPasDrPHMYHGRtUl&pass_ticket=TOmC0I%2B3l3jhpkzwBZVk3OQg6dABDvKC1LEkjTj9hzu7w6ab97z61DxHqq5hQ5X0#rd
+**这三个世界的变化分别为：真实的世界，信息的世界，虚拟的世界；**
 
-### （二）如何快速高效排版公众号！：以笑来系排版为例
+处在真实的世界当中，我们需要解决的是自己的生存的为题，处在信息的世界里面，我们解决的是自己的生活问题，处在虚拟的世界里面，我们解决的是自己的精神的问题，通过不同的维度来帮助自己成为不一样的财富获取者；
 
-https://mp.weixin.qq.com/s?__biz=MzI5NDk2NDIxNA==&mid=2247483680&idx=1&sn=53f87305c25a8b9825b74ec1ba406a06&chksm=ec5b9fb9db2c16af260b69501d248a47527100055840f5951237ec67b4112508b699cce075a2&mpshare=1&scene=1&srcid=03212ygtVfRwRj9fQTgDzmFz&pass_ticket=TOmC0I%2B3l3jhpkzwBZVk3OQg6dABDvKC1LEkjTj9hzu7w6ab97z61DxHqq5hQ5X0#rd
+存在真实的世界当中，我们需要使用的主要是是衣食住行的东西，只要你从事的是衣食住行的行业，就可以完成价值和使用价值的交换，所以处在真实的行业当中，你自己是不是可以完成行业的品牌化立足，就决定了你自己是不是可以完成命运的改变，真正世界赚钱最快速的方法其实就是完成行的租聘，例如现在的共享单车摩拜和打车工具滴滴，每天需要解决吃饭的需要，例如我们使用的美团，每天都需要休息，例如我们的58，每天都需要穿衣，例如我们的淘宝，这些本质上就是解决了真正世界的刚性的需求，信息仅仅是完成刚性需求的筛选，所以在一个物质高度发达的现在，谁可以完成注意力的获取，谁就可以完成交易，那么就是信息世界的事情了；
 
-## 第二部分 编程网页端开发
+**信息的本质是完成传播，然后通过视频、音频、图片、文字的形式完成产品的发布，从而形成交易的可能，现在大家所看到文字，本身就是一种产品，这种产品属于人生的经验，帮助你完成人生攻略当中的打怪升级；**
 
-## 一、Mackenzie Child 案例练习
+在看清华大学肖星老师所讲的《财务分析与决策》的课程里面，重点的谈到了关于经验、投资、融资的概念，而这个概念所对应的其实就是我现在不断的完成改变的维度；
 
-### （一）How to build a Dribbble type app in Rails
+在经营活动体系里面，我现在使用编程的技能完成时间的售卖，来完成货币交易的过程中，来完成货币的获取；在投资的维度，使用公司化的形式完成货币化的投资；在融资的维度，使用公司的股权和数字化资产完成货币的融资；
 
-### （二）How To Build A Notebook App in Rails
+**所以相对应的就是当下非常火的三个人：郑伊廷，林明樟，李笑来；**
 
-### （三）How To Build A Forum In Rails
+郑伊廷快速的让我完成了编程的入门，从而可以开始完成自我的编程的学习；林明樟的超级数字力和我在会计师事务所当中所学习的概念相对应，完成了公司化的投资，李笑来的人生的经历，让我不断的在弥补自己所不知道的区块链和代币的知识体系，而这一切的学习的本质都是完成三件事情：经营，投资，融资；
 
-### （四）How To Build A Wikipedia Clone in Rails
+所以一个人是不是可以完成快速的成长的关键所在，就在于自己是不是可以快速的帮助自己构建自己的知识的体系，从而在自己的知识体系的架构从，不但的丰富和优化自己的知识结构，知道为什么做这样一件事情，然后思考我们应该如何做这样一件事，从而最终真正的最好这一件事情。
 
-才华横溢 wiki 案例教学 9
-
-Github Repo:
-
-https://github.com/shenzhoudance/wiki
-
-Visit this website:
-
-https://xiaoweiwiki.herokuapp.com/
-
-### （五） How To Build A Workout Log In Rails
-
-才华横溢 workout_log 案例 8
-
-Github Repo:
-
-https://github.com/shenzhoudance/workout_log
-
-Visit this website:
-
-https://xiaoweiworkout_log.herokuapp.com/
-
-### （六） How To Build A Jobs Board In Rails
-
-才华横溢 jobs_board 案例教学 7
-
-Github Repo:
-
-https://github.com/shenzhoudance/jobs_board
-
-Visit this website:
-
-https://xiaoweijobs_board.herokuapp.com/
-
-### （七）How To Build A Todo App In Rails
-
-才华横溢 todo 教学案例 6
-
-Github Repo:
-
-https://github.com/shenzhoudance/todo
-
-Visit this website:
-
-https://xiaoweitodo.herokuapp.com/
-
-### （八） How To Build A Movie Review App in Rails
-
-才华横溢 movie_review 教学案例 5
-
-Github Repo:
-
-https://github.com/shenzhoudance/movie_review
-
-Visit this website:
-
-https://xiaoweimovie_review.herokuapp.com/
-
-### （九） How to build a Pinterest Clone in Rails
-
-才华横溢 pin_board 案例教学 4
-
-Github Repo:
-
-https://github.com/shenzhoudance/pin_board
-
-Visit this website:
-
-https://xiaoweipin_board.herokuapp.com/
-
-### （十） How To Build A Recipe Box In Rails
-
-才华横溢 recipe_box 案例教学 3
-
-Github Repo:
-
-https://github.com/shenzhoudance/recipe_box
-
-Visit this website:
-
-https://xiaoweirecipe_box.herokuapp.com/
-
-### （十一） How to build a blog in rails
-
-才华横溢 blog101 案例教学 2
-
-Github Repo:
-
-https://github.com/shenzhoudance/blog101
-
-Visit this website:
-
-https://xiaoweiblog101.herokuapp.com/
-
-### （十二） How to build a Reddit or Hacker News Style Web App in Rails
-
-才华横溢 raddit 案例教学 1
-
-Github Repo:
-
-https://github.com/shenzhoudance/raddit
-
-Visit this website:
-
-https://xiaoweiraddit.herokuapp.com/
-
----
-## 二、Web-Crunch 案例教学
-
-### （一） Let's Build: With Ruby On Rails - Blog With Comments
-
-
-### （二） Let's Build: A Twitter Clone With Ruby on Rails
-
-### （三） Let's Build: A Dribbble Clone With Ruby On Rails
-
-### （四） Let's Build: With Ruby On Rails - Discussion Forum
-
-### （五） Let's Build: With Ruby on Rails - Project Management App
-
-### （六） Let's Build: With Ruby on Rails - eCommerce Music Shop
-
----
-
-## 第三部分 编程移动端开发
-
-
-# React Native & Android & iOS & Mini
-
-## 第四部分 编程区块链开发
-
-# Solidity & Web3.js & Truffle & Hyperledger Fabric & IPFS
-
-一步一步的区块链教程
-
-http://blockchain.liuchengxu.org/
-
-
-Simple Voting on Ethereum
-
-Token based Voting on Ethereum
-
-Decentralized eBay on Ethereum & IPFS
-
-https://www.zastrin.com/
-
->1.5 企业求职指导 & 公司创业指导
-
-## 第五部分 编程其他事项
-
-### 时间安排
-
-
-2018 年 3 月 25 日 - 2018 年 5 月 15 日
-
-
-### 培训费用
-
-16800 元/期
-
-
-### 培训地点
-
-中国·北京
-
-
-针对于学生所学习的能力可以完成公司的留任和企业的推荐，帮助学生完成互联网可以公司的就业、互联网科技公司的创业、互联网公司的投资；
-
----
-
-## 第六部分 人才招募培训：
-
->3.1 新媒体运营助理
-
->3.2 行政管理助理
-
->3.3 平面设计 实习生
-
->3.4 Ruby on Rais 实习生
-
->3.5 React Native 实习生
-
-
----
-
-## 第七部分 会员知识服务：
-
->1）全年招募千一会员，每期 1000 人，每期 1888 元/年；提升自己认知的能力；
-
->2）全年招募万一会员，每期 100 人，每期 8888 元/年； 提升自己赚钱的能力；
-
->3）服务时间：2018.1.1 开始-2018.12.31 截止；
-
->4）2018年才华横溢研习社正在招募中
-
->5）扫描二维码，即可加入成长社社群
-
->6）365天，1120人，在新的起点上，驶向新的航程
-
----
-
-## 第八部分 社交媒体联系：
-
->微信公众号：肖威洞察
-
->微信公众号：人才研习社
-
->新浪微博号：肖威洞察
-
->喜马拉雅号：肖威大型人才研习社
-
->今日头条号：肖威
-
-## 第九部分 扫描微信联系：
-
-
-![image](https://ws2.sinaimg.cn/large/006tNc79ly1fpjf2ree8hj30js0kgte2.jpg)
+肖威
+2018.02.13
