@@ -1,6 +1,6 @@
 # Summary
 
-* [前言 关于我](README.md)
+* [前言](README.md)
 * [Part I 课前准备](part1/README.md)
     * [Github 注册和 Git 的使用](part1/A1.md)
     * [Ruby on Rails 环境搭建](part1/A2.md)
@@ -10,7 +10,8 @@
     * [对于自己三段学习经历的反思](part1/A6.md)
     * [对于2018年上半年的计划安排](part1/A7.md)
     * [如何才可以更加快速的完成全栈工程师的培养？](part1/A8.md)
-    * [ Markdown 的文本使用心得](part1/A9.md)
+    * [Markdown 的文本使用心得](part1/A9.md)
+    * [关于我](part1/A10.md)
 * [Part II 基础入门](part2/README.md)
     * [构建一个Hallo World 专案](part2/B1.md)
     * [Heroku 云端部署](part2/B2.md)
