@@ -38,7 +38,7 @@
     * [才华横溢 todo 教学案例](part3/C8.md)
     * [才华横溢 movie_review 教学案例](part3/C9.md)
 
-    * [才华横溢 todo 教学案例](part3/C10.md)
+    * [才华横溢 twitter 教学案例](part3/C10.md)
     * [才华横溢 todo 教学案例](part3/C11.md)
     * [才华横溢 todo 教学案例](part3/C12.md)
     * [才华横溢 todo 教学案例](part3/C13.md)

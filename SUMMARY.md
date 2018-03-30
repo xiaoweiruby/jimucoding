@@ -32,7 +32,7 @@
     * [才华横溢 jobs_board 案例教学](part3/C7.md)
     * [才华横溢 todo 教学案例](part3/C8.md)
     * [才华横溢 movie_review 教学案例](part3/C9.md)
-    * [才华横溢 todo 教学案例](part3/C10.md)
+    * [才华横溢 twitter 教学案例](part3/C10.md)
     * [才华横溢 todo 教学案例](part3/C11.md)
     * [才华横溢 todo 教学案例](part3/C12.md)
     * [才华横溢 todo 教学案例](part3/C13.md)
@@ -82,4 +82,3 @@
     * [梳理一下我自己的编程结构](part7/G3.md)
     * [对于全栈工程师的思考](part7/G4.md)
     * [对于全栈工程师的思考](part7/G5.md)
-
